@@ -1,6 +1,6 @@
 - 👋 Hi, I’m K Mayur Bhat
 - 👀 I’m interested in working on different web based and mobile apps based on React Native
-- 🌱 I’m currently learning and exploring React JS
+- 🌱 I’m currently exploring React JS
 - 📫 How to reach me mayurbhat53@gmail.com(✉️)
 
 <!---
